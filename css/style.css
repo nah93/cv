@@ -1,0 +1,290 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #f3ecc2;
+}
+
+.top-menu {
+  position: absolute;
+  width: 100%;
+  height: 200px;
+  background-color: #cbeaed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.logo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 350px;
+  height: 200px;
+  margin: 0 auto 0 auto;
+}
+
+.about {
+  position: absolute;
+  left: 60%;
+  top: 70px;
+  font-size: 1.5rem;
+  color: #4ea0ae;
+}
+
+.contact {
+  position: absolute;
+  top: 70px;
+  left: 67%;
+  font-size: 1.5rem;
+  color: #4ea0ae;
+}
+
+.top-container {
+  background-color: #e7dfd5;
+  position: absolute;
+  top: 200px;
+  width: 100%;
+  height: 638px;
+  left: 0;
+  right: 0;
+}
+
+.name {
+  position: absolute;
+  height: 350px;
+  width: 500px;
+  left: 0;
+  right: 0;
+  margin: 0 auto 0 auto;
+}
+
+.mountain {
+  position: absolute;
+  top: 280px;
+  left: 0;
+  right: 0;
+  margin: 0 auto 0 auto;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 163px;
+  left: 265px;
+}
+
+.cloud3 {
+  position: absolute;
+  bottom: 390px;
+  left: 700px;
+}
+
+.cloud4 {
+  position: absolute;
+  bottom: 300px;
+  left: 1000px;
+}
+
+.cloud5 {
+  position: absolute;
+  top: 40px;
+  left: 1400px;
+}
+
+.middle-container {
+  position: absolute;
+  width: 100%;
+  top: 835px;
+  height: 1413px;
+  background-color: #96bb7c;
+  left: 0;
+  right: 0;
+}
+
+.profile {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 400px;
+}
+
+.man {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: 80px;
+}
+
+.profile_h2 {
+  position: relative;
+  top: 70px;
+}
+
+.profile_p {
+  position: relative;
+  top: 65px;
+}
+
+.skills {
+  position: absolute;
+  top: 400px;
+  width: 100%;
+  height: 515px;
+}
+
+.I-do {
+  font-size: 3em;
+}
+
+.skill-row-a {
+  width: 100%;
+  left: 0;
+  right: 0;
+  height: 180px;
+}
+
+.design-pic {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 205px;
+  right: 0;
+  left: 30%;
+}
+
+.Design_h3 {
+  font-size: 2em;
+  color: #ebecf1;
+  position: absolute;
+  left: 38%;
+}
+
+.Design_p {
+  position: absolute;
+  text-align: left;
+  left: 38%;
+  right: 0;
+  top: 195px;
+}
+
+.skill-row-b {
+  width: 100%;
+  left: 0;
+  right: 0;
+  height: 200px;
+}
+
+.tablet-pic {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top: 350px;
+  right: 21%;
+}
+
+.tablet_h3 {
+  font-size: 2em;
+  color: #ebecf1;
+  position: absolute;
+  top: 300px;
+  left: 38%;
+}
+
+.tablet_p {
+  position: absolute;
+  text-align: left;
+  left: 38%;
+  right: 0;
+  top: 355px;
+}
+
+.contact-me {
+  position: absolute;
+  top: 914px;
+  width: 100%;
+  height: 500px;
+}
+
+.help_h2 {
+  font-size: 3em;
+}
+
+.help_h3 {
+  font-size: 2em;
+  color: #ebecf1;
+}
+
+.contact_button {
+  height: 80px;
+  width: 185px;
+  position: relative;
+  top: 30px;
+}
+
+.bottom-container {
+  background-color: #e7dfd5;
+  position: absolute;
+  top: 2248px;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
+.rights_p {
+  font-size: 1em;
+  color: black;
+}
+
+
+/* Contacts */
+
+
+.contact_middle {
+  width: 100%;
+  background-color: #96bb7c;
+  position: absolute;
+  top: 200px;
+  left: 0;
+  right: 0;
+  height: 955px;
+}
+
+.contact_wall {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.contact_p {
+  position: relative;
+  top: 100px;
+}
+
+.contact_form {
+  position: relative;
+  top: 200px;
+}
+
+.contact_bottom {
+  background-color: #e7dfd5;
+  position: absolute;
+  top: 1155px;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
